@@ -25,10 +25,8 @@ Full Stack Amazon Clone Project
     - Viewing Category Based Earnings (on Graph)
 
 
-## Tech Used
-**Server**: Node.js, Express, Mongoose, MongoDB, Cloudinary
-
-**Client**: Flutter, Provider
+## Tools Used
+Node.js, Express, Mongoose, MongoDB, Cloud (PaaS), Flutter, Provider
     
 ## Credit and Tutorial
 
